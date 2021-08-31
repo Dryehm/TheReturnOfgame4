@@ -1,0 +1,8 @@
+name: TheReturnOfgame4
+displayName: TheReturnOfgame4
+author: Dryehm
+description: Replaces game4 with v5 game4.
+version: 1.0
+minGameVersion: 126.1
+hidden: true
+
